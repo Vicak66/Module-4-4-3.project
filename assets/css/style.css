@@ -27,7 +27,7 @@ header {
     border-bottom: 5px solid var(--primary);
 }
 header p {
-    background: var(--tertiary);
+    color: var(--tertiary);
     margin: 5px 0 20px;
     font-size: 2rem;
 }
@@ -82,7 +82,7 @@ footer {
     width: 95%;
 }
 
-.tast-list-wrapper {
+.task-list-wrapper {
     flex: 1;
     margin: 0 20px 20px;
 }
